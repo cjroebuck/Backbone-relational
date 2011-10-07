@@ -10,5 +10,6 @@
     "backbone": ">=0.5.1"
   },
   "lib"           : ".",
-  "main"          : "backbone-relational.js"
+  "main"          : "backbone-relational.js",
+  "version"       : "0.4.0"
 }
